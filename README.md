@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harystbd05&label=Profile%20views&color=0e75b6&style=flat" alt="harystbd05" /> </p>
 
-- 🔭 I’m currently working at Freelance Web Developer and Penetration Tester
-
 - 👨‍💻 All of my projects are available at [https://id.linkedin.com/in/hary-setiabudi](https://id.linkedin.com/in/hary-setiabudi)
 
 - 💬 Ask me about **BACKEND Engineer & BOT Automation Engineer**
